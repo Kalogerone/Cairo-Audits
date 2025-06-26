@@ -1,7 +1,13 @@
 # Cairo-Audits
 A repo containing all my Starknet (Cairo) audits done under a firm or a contest
 
-## On-going private cairo audit
+## CODESPECT - Kapan Finance 16 June, 2025 - 23 June, 2025
+
+Report in progress
+
+## Immunefi Invite-Only Program - Paradex May 23, 2025 - June 13, 2025
+
+Report is private
 
 ## CODESPECT - Typhoon May 05, 2025 - May 07, 2025
 
