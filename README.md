@@ -1,6 +1,18 @@
 # Cairo-Audits
 A repo containing all my Starknet (Cairo) audits done under a firm or a contest
 
+## CODESPECT - DEFA 25 Feb, 2026 - 03 Mar, 2026
+
+In progress
+
+## Sherlock x CODESPECT - Vesu 6 Feb, 2026 - 21 Feb, 2026
+
+[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2026.03.18%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201773874144.pdf)
+
+## Sherlock x CODESPECT Troves 7 Jan, 2026 - 11 Jan, 2026
+
+[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.12.10%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201765410223.pdf)
+
 ## Sherlock x CODESPECT - Vesu 10 Nov, 2025 - 13 Nov, 2025
 
 Report in progress
