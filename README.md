@@ -11,11 +11,11 @@ In progress
 
 ## Sherlock x CODESPECT Troves 7 Jan, 2026 - 11 Jan, 2026
 
-[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.12.10%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201765410223.pdf)
+In progress
 
 ## Sherlock x CODESPECT - Vesu 10 Nov, 2025 - 13 Nov, 2025
 
-Report in progress
+[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.12.10%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201765410223.pdf)
 
 ## Sherlock x CODESPECT - Vesu 10 Sept, 2025 - 17 Sept, 2025
 
